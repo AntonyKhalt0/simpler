@@ -1,0 +1,3 @@
+I, [2022-06-19T17:05:35.641218 #94261]  INFO -- : {:Request=>"GET /tests?", :Handler=>"TestsController#index", :Parameters=>"{}", :Response=>"201 [text/html] /home/antony/ror_cursus/simpler/app/views/tests/index.html.erb"}
+I, [2022-06-19T17:06:31.244925 #94296]  INFO -- : {:Request=>"GET /tests?", :Handler=>"TestsController#index", :Parameters=>"{}", :Response=>"201 [text/html] /home/antony/ror_cursus/simpler/app/views/tests/index.html.erb"}
+I, [2022-06-19T17:06:52.669959 #94296]  INFO -- : {:Request=>"GET /tests/3?", :Handler=>"TestsController#show", :Parameters=>"{:id=>\"3\"}", :Response=>"200 [text/html] /home/antony/ror_cursus/simpler/app/views/tests/show.html.erb"}
